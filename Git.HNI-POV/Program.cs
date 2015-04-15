@@ -10,6 +10,7 @@ namespace Git.HNI_POV
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
